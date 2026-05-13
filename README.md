@@ -52,3 +52,4 @@ This is a standard Vite React application. You can deploy it easily to any stati
 - Implement a more robust backend (e.g., Firebase Firestore) for persistent data storage.
 - Enhance OCR logic using Google ML Kit on native mobile or a cloud-based receipt parsing API for better accuracy.
 - Add real push notifications for expiry alerts using Firebase Cloud Messaging.
+https://final-project-md.vercel.app/ 
