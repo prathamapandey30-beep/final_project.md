@@ -1,5 +1,5 @@
 # GreenPlate - Food Waste Reduction App
-
+ https://final-project-md.vercel.app/
 GreenPlate is a mobile-first web application designed to help households reduce food waste. It features receipt scanning (OCR via Tesseract.js), a smart inventory system, expiry date estimation, and an impact dashboard.
 
 ## Features (MVP)
